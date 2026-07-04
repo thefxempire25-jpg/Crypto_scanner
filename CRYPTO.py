@@ -1,9 +1,9 @@
- import streamlit as st
+import streamlit as st
 import pandas as pd
 import requests
 import asyncio
 import aiohttp
-from streamlit_autorefresh import st_autorefresh
+from streamlit_autorefresh  import st_autorefresh
 
 # 1. Page Configuration & Auto-Refresh
 st.set_page_config(page_title="THEFXEMPIRE // CRYPTO TRACKER", layout="wide", initial_sidebar_state="expanded")
