@@ -3,4 +3,4 @@ pandas
 requests
 asyncio
 aiohttp
-st_autorefresh
+streamlit-autorefresh
